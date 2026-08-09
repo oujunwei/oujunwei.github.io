@@ -32,11 +32,19 @@
                     var title = pub.title || (pub.bib && pub.bib.title) || 'Untitled'
                     var url = pub.url_scholar || (pub.bib && pub.bib.url) || null
                     var citations = pub.num_citations || 0
+                    var authors = pub.authors || ''
+                    var venue = pub.venue || ''
                     listHtml += '<li>'
+                    if (authors) {
+                        listHtml += '<div class="pub-authors">' + authors + '</div>'
+                    }
                     if (url) {
                         listHtml += '<a href="' + url + '" target="_blank" rel="noopener noreferrer">' + title + '</a>'
                     } else {
                         listHtml += title
+                    }
+                    if (venue) {
+                        listHtml += ' <span class="pub-venue">' + venue + '</span>'
                     }
                     listHtml += ' <span class="pub-citations">(' + citations + ' citations)</span>'
                     listHtml += '</li>'
