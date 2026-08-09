@@ -12,6 +12,12 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Research Interests"
+    url: "/#-research-interests"
+
+  - title: "Profile"
+    url: "/#-profile"
+
+  - title: "Contact"
+    url: "/#-contact"
 
