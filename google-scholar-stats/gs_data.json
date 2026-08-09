@@ -1,0 +1,405 @@
+{
+  "citedby": 1011,
+  "publications": {
+    "pub_0": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 108,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Ou, L Xing, F Yao, M Li, J Lv, Y He, Y Song, J Wu, G Zhang"
+    },
+    "pub_1": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 95,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Song, PN Suganthan, W Pedrycz, J Ou, Y He, Y Chen, Y Wu"
+    },
+    "pub_2": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 75,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Song, J Ou, W Pedrycz, PN Suganthan, X Wang, L Xing, Y Zhang"
+    },
+    "pub_3": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 70,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Zheng, Z Zhang, J Zou, S Yang, J Ou, Y Hu"
+    },
+    "pub_4": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 64,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Zheng, Y Zhou, J Zou, S Yang, J Ou, Y Hu"
+    },
+    "pub_5": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 62,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Wu, B Song, G Zhang, J Ou, Y Chen, F Yao, L He, L Xing"
+    },
+    "pub_6": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 61,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, J Zheng, J Zou, S Yang, J Ou, R Wang"
+    },
+    "pub_7": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 56,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Song, J Ou, J Wu, Y Wu, L Xing, Y Chen"
+    },
+    "pub_8": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 48,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, J Ou, PN Suganthan, W Pedrycz, R Wang, J Zheng, J Zou, Y Song"
+    },
+    "pub_9": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 42,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "H Xie, J Zou, S Yang, J Zheng, J Ou, Y Hu"
+    },
+    "pub_10": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 41,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Song, J Ou, PN Suganthan, W Pedrycz, Q Yang, L Xing"
+    },
+    "pub_11": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 41,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Ou, J Zheng, G Ruan, Y Hu, J Zou, M Li, S Yang, X Tan"
+    },
+    "pub_12": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 39,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Wu, F Yao, Y Song, L He, F Lu, Y Du, J Yan, Y Chen, L Xing, J Ou"
+    },
+    "pub_13": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 35,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "H Wang, W Yang, J Li, J Ou, Y Song, Y Chen"
+    },
+    "pub_14": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 30,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, J Peng, J Ou, Y Li, J Zheng, J Zou, S Jiang, S Yang, J Li"
+    },
+    "pub_15": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 26,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Chen, J Lu, R He, J Ou"
+    },
+    "pub_16": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 26,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, J Ou, J Zheng, J Zou, S Yang, G Ruan"
+    },
+    "pub_17": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 22,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Ou, X Liu, L Xing, J Lv, Y Hu, J Zheng, J Zou, M Li"
+    },
+    "pub_18": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 13,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Ou, M Li, L Xing, J Lv, Y Hu, N Dong, G Zhang"
+    },
+    "pub_19": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 13,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Ou, L Xing, M Liu, L Yang"
+    },
+    "pub_20": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 11,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Zhou, J Zou, S Yang, G Ruan, J Ou, J Zheng"
+    },
+    "pub_21": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 5,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, J Xia, J Ou, Y Song, J Li, J Zheng, G Wang, Y Zhang"
+    },
+    "pub_22": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 5,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, Z Zheng, J Ou, Y Song, J Zheng, J Zou, PN Suganthan, S Yang"
+    },
+    "pub_23": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 5,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, J Ou, H Wang, J Zou, J Zheng, S Yang"
+    },
+    "pub_24": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 4,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "H Liu, J Zheng, Y Hu, X Yu, J Ou, J Zou, S Yang"
+    },
+    "pub_25": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 4,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, Y Li, J Ou, J Peng, J Li, J Zheng"
+    },
+    "pub_26": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 3,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Guo, Y Song, J Li, J Ou, L Xing, Y Zhang"
+    },
+    "pub_27": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 2,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "X Yu, J Zheng, Y Hu, J Ou, J Zou"
+    },
+    "pub_28": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 2,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "N Dong, R Wang, T Zhang, J Ou"
+    },
+    "pub_29": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 2,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Song, J Ou, DT Pham, J Li, J Huang, L Xing"
+    },
+    "pub_30": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 1,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, W Fu, J Ou, X Yang, J Zou"
+    },
+    "pub_31": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, W Sun, S Jiang, J Ou, J Zheng, J Zou, S Yang"
+    },
+    "pub_32": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, X Yang, W Fu, Y Zheng, J Ou, J Zou"
+    },
+    "pub_33": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "W He, J Zheng, X Yu, J Ou, Y Hu, J Zou, K Zhang"
+    },
+    "pub_34": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, S Wang, J Ou, Z Mei, J Zou, S Yang"
+    },
+    "pub_35": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "J Ou, Y Li, Y Hu, J Peng, J Zheng, J Zou, S Yang"
+    },
+    "pub_36": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y He, H Zhou, Y Du, J Wu, J Ou, M Chen"
+    },
+    "pub_37": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, Z Mei, J Ou, J Zheng, J Zou, S Jiang"
+    },
+    "pub_38": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Guo, Y Song, J Li, J Ou, L Xing"
+    },
+    "pub_39": {
+      "title": "Untitled",
+      "url_scholar": null,
+      "num_citations": 0,
+      "bib": {
+        "title": "Untitled",
+        "url": null
+      },
+      "authors": "Y Hu, Z Zheng, J Ou, J Zou, R Wang, S Yang, J Zheng, B Zhang, J Peng"
+    }
+  }
+}
