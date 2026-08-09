@@ -48,8 +48,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 📚 Profile
 - **Ph.D.** in Control Science and Engineering, National University of Defense Technology (NUDT), 2023
 - **Postdoctoral Fellow**, School of Computer Science, Xiangtan University, 2024.01–2026.01
-- **Faculty Member**, School of Computer Science, Xiangtan University, 2024.07–Present
-- **Master's Supervisor** in Computer Science and Technology (Academic M.S.) and Computer Technology (Professional M.S.)
+- **Lecture**, School of Computer Science, Xiangtan University, 2024.07–Present.
 
 **Teaching:** Machine Learning, Compiler Design, Computer Architecture
 
