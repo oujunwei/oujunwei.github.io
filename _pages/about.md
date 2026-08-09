@@ -19,9 +19,13 @@ redirect_from:
 
 ## About Me
 
-I am Oujun Wei. Welcome to my personal homepage.
+Junwei Ou received his Ph.D. in Control Science and Engineering from the National University of Defense Technology (NUDT) in December 2023. From January 2024 to January 2026, he worked as a postdoctoral fellow at the School of Computer Science, Xiangtan University. Since July 2024, he has been a faculty member and Master's supervisor at the School of Computer Science, Xiangtan University.
 
-This page presents my latest updates and profile information. More content will be added gradually.
+He is now working on satellite scheduling (satellite imaging scheduling, satellite TT&C scheduling), reinforcement learning, multi-objective optimization, and evolutionary computation. He has published 20+ papers in top international journals such as *IEEE Transactions on Evolutionary Computation* (TEVC), *Expert Systems with Applications* (ESWA), *Knowledge-Based Systems* (KBS), *Information Sciences* (INS), *Applied Soft Computing* (ASOC), and *Swarm and Evolutionary Computation* (SWEVO). He also serves as a reviewer for international journals, including TEVC, INS, ESWA, and SWEVO.
+
+He is currently the Principal Investigator of the Postdoctoral State-Owned Assets Plan (Grade C), the Hunan Provincial Natural Science Foundation, and the Hunan Provincial Graduate Research Innovation Key Project.
+
+If you are seeking any form of academic cooperation, please feel free to email me at [junweiou@xtu.edu.cn](mailto:junweiou@xtu.edu.cn).
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
@@ -29,27 +33,26 @@ This page presents my latest updates and profile information. More content will 
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
-- Deep reinforcement learning method for satellite range scheduling problem
-- Ensemble reinforcement learning: A survey
-- Generalized model and deep reinforcement learning-based evolutionary method for multitype satellite observation scheduling
-- A dynamic multi-objective particle swarm optimization algorithm based on adversarial decomposition and neighborhood evolution
-- A prediction strategy based on decision variable analysis for dynamic multi-objective optimization
-- A data-driven improved genetic algorithm for agile earth observation satellite scheduling with time-dependent transition time
-- A dynamic multi-objective evolutionary algorithm based on intensity of environmental change
-- A cluster-based genetic optimization method for satellite range scheduling system
-- Dynamic multi-objective optimization algorithm guided by recurrent neural network
-- A decision variable classification-based cooperative coevolutionary algorithm for dynamic multiobjective optimization
+<div id="publications-list">
+  <p>Loading publications from Google Scholar...</p>
+</div>
 
 <span class='anchor' id='-research-interests'></span>
 # 📝 Research Interests
 - Artificial Intelligence
-- Computer Vision
-- Machine Learning
+- Satellite Scheduling (Satellite Imaging Scheduling, Satellite TT&C Scheduling)
+- Reinforcement Learning
+- Evolutionary Computation (Evolutionary Algorithms, Multi-Objective Optimization, Dynamic Optimization)
 
 <span class='anchor' id='-profile'></span>
 # 📚 Profile
-I focus on AI research and practical applications. I welcome collaboration and academic exchange.
+- **Ph.D.** in Control Science and Engineering, National University of Defense Technology (NUDT), 2023
+- **Postdoctoral Fellow**, School of Computer Science, Xiangtan University, 2024.01–2026.01
+- **Faculty Member**, School of Computer Science, Xiangtan University, 2024.07–Present
+- **Master's Supervisor** in Computer Science and Technology (Academic M.S.) and Computer Technology (Professional M.S.)
+
+**Teaching:** Machine Learning, Compiler Design, Computer Architecture
 
 <span class='anchor' id='-contact'></span>
 # 📫 Contact
-- Email: `example@example.com`
+- Email: `junweiou@xtu.edu.cn`
