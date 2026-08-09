@@ -112,26 +112,28 @@ h1:before, .anchor:before {
 .publications-list {
     padding-left: 1.2rem;
     li {
-        margin-bottom: 1rem;
-        line-height: 1.5;
+        margin-bottom: 0.6rem;
+        line-height: 1.6;
     }
 }
 
 .pub-authors {
-    font-size: .85em;
-    color: #666;
-    margin-bottom: .15em;
+    font-size: .92em;
+    color: #555;
+}
+
+.pub-authors strong {
+    color: #222;
 }
 
 .pub-venue {
     font-size: .85em;
     color: #888;
-    margin-left: .5em;
     font-style: italic;
 }
 
 .pub-citations {
     font-size: .8em;
     color: #999;
-    margin-left: .3em;
+    margin-left: .2em;
 }
