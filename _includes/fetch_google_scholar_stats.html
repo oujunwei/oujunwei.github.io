@@ -25,18 +25,20 @@
             var publicationsList = document.getElementById('publications-list')
             if (publicationsList && data['publications']) {
                 var publications = Object.values(data['publications'])
-                publications.sort((a, b) => (b.num_citations || 0) - (a.num_citations || 0))
+                publications.sort((a, b) => (b.year || 0) - (a.year || 0))
                 publications = publications.slice(0, 50)
                 var listHtml = '<ol class="publications-list">'
                 publications.forEach(pub => {
                     var title = pub.title || (pub.bib && pub.bib.title) || 'Untitled'
                     var url = pub.url_scholar || (pub.bib && pub.bib.url) || null
                     var citations = pub.num_citations || 0
-                    var authors = (pub.authors || '').replace(/\bJ Ou\b/g, '<strong>J Ou</strong>').replace(/\bJunwei Ou\b/g, '<strong>Junwei Ou</strong>')
+                    var authors = (pub.authors || '')
+                        .replace(/\bJ\.?\s*Ou\b/g, '<strong>$&</strong>')
+                        .replace(/\bJunwei\s+Ou\b/g, '<strong>$&</strong>')
                     var venue = pub.venue || ''
                     listHtml += '<li>'
                     if (authors) {
-                        listHtml += '<div class="pub-authors">' + authors + '</div>'
+                        listHtml += '<span class="pub-authors">' + authors + '</span>, '
                     }
                     if (url) {
                         listHtml += '<a href="' + url + '" target="_blank" rel="noopener noreferrer">' + title + '</a>'
