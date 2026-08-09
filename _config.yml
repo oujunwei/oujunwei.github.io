@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Junwei Ou(欧俊威)"
 description              : "Lecture in Intelligent Computation Lab."
-repository               : "https://github.com/oujunwei/yaruhu.github.io"
+repository               : "oujunwei/oujunwei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
