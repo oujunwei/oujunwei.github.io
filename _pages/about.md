@@ -17,22 +17,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## 关于我
+## About Me
 
-我是欧俊威，欢迎来到我的个人主页。
+I am Oujun Wei. Welcome to my personal homepage.
 
-这里展示我的最新动态和个人介绍，更多内容正在持续完善中。
+This page presents my latest updates and profile information. More content will be added gradually.
 
-# 🔥 最新动态
-- *2026.08*: 个人主页正在搭建，后续会更新更多研究、成果与联系信息。
+<span class='anchor' id='-news'></span>
+# 🔥 News
+- *2026.08*: The personal website is under construction. More research, achievements, and contact details will be updated soon.
 
-# 📝 研究兴趣
-- 人工智能
-- 计算机视觉
-- 机器学习
+<span class='anchor' id='-publications'></span>
+# 📝 Publications
+- Deep reinforcement learning method for satellite range scheduling problem
+- Ensemble reinforcement learning: A survey
+- Generalized model and deep reinforcement learning-based evolutionary method for multitype satellite observation scheduling
+- A dynamic multi-objective particle swarm optimization algorithm based on adversarial decomposition and neighborhood evolution
+- A prediction strategy based on decision variable analysis for dynamic multi-objective optimization
+- A data-driven improved genetic algorithm for agile earth observation satellite scheduling with time-dependent transition time
+- A dynamic multi-objective evolutionary algorithm based on intensity of environmental change
+- A cluster-based genetic optimization method for satellite range scheduling system
+- Dynamic multi-objective optimization algorithm guided by recurrent neural network
+- A decision variable classification-based cooperative coevolutionary algorithm for dynamic multiobjective optimization
 
-# 📚 个人简介
-我目前专注于人工智能领域的学习与实践，欢迎交流与合作。
+<span class='anchor' id='-research-interests'></span>
+# 📝 Research Interests
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning
 
-# 📫 联系方式
-- 邮箱：`example@example.com`
+<span class='anchor' id='-profile'></span>
+# 📚 Profile
+I focus on AI research and practical applications. I welcome collaboration and academic exchange.
+
+<span class='anchor' id='-contact'></span>
+# 📫 Contact
+- Email: `example@example.com`
