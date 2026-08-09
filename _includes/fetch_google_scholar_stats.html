@@ -26,13 +26,13 @@
             if (publicationsList && data['publications']) {
                 var publications = Object.values(data['publications'])
                 publications.sort((a, b) => (b.num_citations || 0) - (a.num_citations || 0))
-                publications = publications.slice(0, 10)
+                publications = publications.slice(0, 50)
                 var listHtml = '<ol class="publications-list">'
                 publications.forEach(pub => {
                     var title = pub.title || (pub.bib && pub.bib.title) || 'Untitled'
                     var url = pub.url_scholar || (pub.bib && pub.bib.url) || null
                     var citations = pub.num_citations || 0
-                    var authors = pub.authors || ''
+                    var authors = (pub.authors || '').replace(/\bJ Ou\b/g, '<strong>J Ou</strong>').replace(/\bJunwei Ou\b/g, '<strong>Junwei Ou</strong>')
                     var venue = pub.venue || ''
                     listHtml += '<li>'
                     if (authors) {
