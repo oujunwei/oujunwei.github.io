@@ -29,7 +29,8 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.08*: The personal website is under construction. More research, achievements, and contact details will be updated soon.
+- *2026.07*: 🎉🎉 One paper is accepted in IEEE Transactions on Evolutionary Computation (TEVC).
+- *2026.01*: 🎉🎉 One paper is accepted in Swarm and Evolutionary Computation (SWEVO).
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
