@@ -107,3 +107,33 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Publications list */
+.publications-list {
+    padding-left: 1.2rem;
+    li {
+        margin-bottom: 0.6rem;
+        line-height: 1.6;
+    }
+}
+
+.pub-authors {
+    font-size: .92em;
+    color: #555;
+}
+
+.pub-authors strong {
+    color: #222;
+}
+
+.pub-venue {
+    font-size: .85em;
+    color: #888;
+    font-style: italic;
+}
+
+.pub-citations {
+    font-size: .8em;
+    color: #999;
+    margin-left: .2em;
+}

@@ -17,41 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+## About Me
 
-From 2025.01, I am an Associate Professor at Xiangtan University, Master's Supervisor. His main research areas include: artificial intelligence, evolutionary computing, machine learning (reinforcement learning)-driven intelligent optimization and its applications, complex heterogeneous optimization, and multi-objective optimization. I have published more than 30 papers at the top international AI journals and conferences with total <a href='https://scholar.google.com/citations?hl=zh-CN&user=AYkmwIwAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
- He was selected for the 2024 Hunan Province Excellent Doctoral Dissertation Award and recognized in the 2023 Hunan Province Talent Promotion program. We has led 5 national and provincial projects and participated in 5 national and provincial projects, having published over 30 papers in renowned academic journals and conferences, including IEEE Transactions on Cybernetics (TCYB). He serves as a reviewer for international journals and conferences such as TCYB, INS, ASC, Soft Computing, KBS, and SEC.Enrollment: Master's (Computer Science and Technology), Master's (Computer Technology, Electronic Information), ongoing recruitment for undergraduate students (recommended for sophomore year). Currently, the team members exhibit strong cohesion, a positive learning atmosphere, and have performed excellently in further education and employment. New members are warmly welcomed to join.
+Junwei Ou received his Ph.D. in Control Science and Engineering from the National University of Defense Technology (NUDT) in December 2023. From January 2024 to January 2026, he worked as a postdoctoral fellow at the School of Computer Science, Xiangtan University. Since July 2024, he has been a faculty member and Master's supervisor at the School of Computer Science, Xiangtan University.
 
+He is now working on satellite scheduling (satellite imaging scheduling, satellite TT&C scheduling), reinforcement learning, multi-objective optimization, and evolutionary computation. He has published 20+ papers in top international journals such as *IEEE Transactions on Evolutionary Computation* (TEVC), *Expert Systems with Applications* (ESWA), *Knowledge-Based Systems* (KBS), *Information Sciences* (INS), *Applied Soft Computing* (ASOC), and *Swarm and Evolutionary Computation* (SWEVO). He also serves as a reviewer for international journals, including TEVC, INS, ESWA, and SWEVO.
 
+He is currently the Principal Investigator of the Postdoctoral State-Owned Assets Plan (Grade C), the Hunan Provincial Natural Science Foundation, and the Hunan Provincial Graduate Research Innovation Key Project.
 
+If you are seeking any form of academic cooperation, please feel free to email me at [junweiou@xtu.edu.cn](mailto:junweiou@xtu.edu.cn).
+
+<span class='anchor' id='-news'></span>
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted in [TEVC](https://doi.org/10.1109/TEVC.2025.3597615)(CCF-B). 
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted in [Swarm and Evolutionary Computation](https://doi.org/10.1016/j.swevo.2025.101876)(CCF-B). 
+- *2026.08*: The personal website is under construction. More research, achievements, and contact details will be updated soon.
 
-# 📝 Publications 
-
-
-[A Learning Algorithm Based on Similarity Identification and Knowledge Transfer for Dynamic Multi-Objective Optimization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)Yaru Hu, Zhi Zheng, Junwei Ou, Yanjie Song, Jinhua Zheng, Juan Zou, Ponnuthurai Nagaratnam Suganthan, Shengxiang Yang, IEEE Transactions on Evolutionary Computation,2025
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+<span class='anchor' id='-publications'></span>
+# 📝 Publications
+<div id="publications-list">
+  <p>Loading publications from Google Scholar...</p>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<span class='anchor' id='-research-interests'></span>
+# 📝 Research Interests
+- Artificial Intelligence
+- Satellite Scheduling (Satellite Imaging Scheduling, Satellite TT&C Scheduling)
+- Reinforcement Learning
+- Evolutionary Computation (Evolutionary Algorithms, Multi-Objective Optimization, Dynamic Optimization)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class='anchor' id='-profile'></span>
+# 📚 Profile
+- **Ph.D.** in Control Science and Engineering, National University of Defense Technology (NUDT), 2023
+- **Postdoctoral Fellow**, School of Computer Science, Xiangtan University, 2024.01–2026.01
+- **Lecture**, School of Computer Science, Xiangtan University, 2024.07–Present.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Teaching:** Machine Learning, Compiler Design, Computer Architecture
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class='anchor' id='-contact'></span>
+# 📫 Contact
+- Email: `junweiou@xtu.edu.cn`

@@ -1,19 +1,64 @@
 <script>
     $(document).ready(function () {
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@main/'
         {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/main/'
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
+            var totalCitElem = document.getElementById('total_cit')
+            if (totalCitElem) {
+                totalCitElem.innerHTML = totalCitation;
+            }
+
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                var publication = data['publications'][paperId]
+                if (publication) {
+                    var numCitations = publication['num_citations']
+                    element.innerHTML = '| Citations: ' + numCitations;
+                }
             });
+
+            var publicationsList = document.getElementById('publications-list')
+            if (publicationsList && data['publications']) {
+                var publications = Object.values(data['publications'])
+                publications.sort((a, b) => (b.year || 0) - (a.year || 0))
+                publications = publications.slice(0, 50)
+                var listHtml = '<ol class="publications-list">'
+                publications.forEach(pub => {
+                    var title = pub.title || (pub.bib && pub.bib.title) || 'Untitled'
+                    var url = pub.url_scholar || (pub.bib && pub.bib.url) || null
+                    var citations = pub.num_citations || 0
+                    var authors = (pub.authors || '')
+                        .replace(/\bJ\.?\s*Ou\b/g, '<strong>$&</strong>')
+                        .replace(/\bJunwei\s+Ou\b/g, '<strong>$&</strong>')
+                    var venue = pub.venue || ''
+                    listHtml += '<li>'
+                    if (authors) {
+                        listHtml += '<span class="pub-authors">' + authors + '</span>, '
+                    }
+                    if (url) {
+                        listHtml += '<a href="' + url + '" target="_blank" rel="noopener noreferrer">' + title + '</a>'
+                    } else {
+                        listHtml += title
+                    }
+                    if (venue) {
+                        listHtml += ', <span class="pub-venue">' + venue + '</span>'
+                    }
+                    listHtml += ' <span class="pub-citations">(' + citations + ' citations)</span>'
+                    listHtml += '</li>'
+                })
+                listHtml += '</ol>'
+                publicationsList.innerHTML = listHtml
+            }
+        }).fail(function () {
+            var publicationsList = document.getElementById('publications-list')
+            if (publicationsList) {
+                publicationsList.innerHTML = '<p>Unable to load Google Scholar publications right now.</p>'
+            }
         });
     })
 </script>
