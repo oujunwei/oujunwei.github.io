@@ -1,5 +1,5 @@
 {
-  "citedby": 1011,
+  "citedby": 1019,
   "publications": {
     "pub_0": {
       "title": "Deep reinforcement learning method for satellite range scheduling problem",
@@ -40,7 +40,7 @@
     "pub_3": {
       "title": "A dynamic multi-objective particle swarm optimization algorithm based on adversarial decomposition and neighborhood evolution",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:zYLM7Y9cAGgC",
-      "num_citations": 70,
+      "num_citations": 71,
       "year": 2022,
       "bib": {
         "title": "A dynamic multi-objective particle swarm optimization algorithm based on adversarial decomposition and neighborhood evolution",
@@ -100,7 +100,7 @@
     "pub_8": {
       "title": "Dynamic multi-objective optimization algorithm guided by recurrent neural network",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:8k81kl-MbHgC",
-      "num_citations": 48,
+      "num_citations": 49,
       "year": 2024,
       "bib": {
         "title": "Dynamic multi-objective optimization algorithm guided by recurrent neural network",
@@ -110,6 +110,18 @@
       "venue": "IEEE Transactions on Evolutionary Computation 5, 6, 2024"
     },
     "pub_9": {
+      "title": "Learning adaptive genetic algorithm for earth electromagnetic satellite scheduling",
+      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:Se3iqnhoufwC",
+      "num_citations": 43,
+      "year": 2023,
+      "bib": {
+        "title": "Learning adaptive genetic algorithm for earth electromagnetic satellite scheduling",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:Se3iqnhoufwC"
+      },
+      "authors": "Y Song, J Ou, PN Suganthan, W Pedrycz, Q Yang, L Xing",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems 59 (6), 9010-9025, 2023"
+    },
+    "pub_10": {
       "title": "A decision variable classification-based cooperative coevolutionary algorithm for dynamic multiobjective optimization",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:u5HHmVD_uO8C",
       "num_citations": 42,
@@ -120,18 +132,6 @@
       },
       "authors": "H Xie, J Zou, S Yang, J Zheng, J Ou, Y Hu",
       "venue": "Information Sciences 560, 307-330, 2021"
-    },
-    "pub_10": {
-      "title": "Learning adaptive genetic algorithm for earth electromagnetic satellite scheduling",
-      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:Se3iqnhoufwC",
-      "num_citations": 41,
-      "year": 2023,
-      "bib": {
-        "title": "Learning adaptive genetic algorithm for earth electromagnetic satellite scheduling",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:Se3iqnhoufwC"
-      },
-      "authors": "Y Song, J Ou, PN Suganthan, W Pedrycz, Q Yang, L Xing",
-      "venue": "IEEE Transactions on Aerospace and Electronic Systems 59 (6), 9010-9025, 2023"
     },
     "pub_11": {
       "title": "A pareto-based evolutionary algorithm using decomposition and truncation for dynamic multi-objective optimization",
@@ -172,7 +172,7 @@
     "pub_14": {
       "title": "The IGD-based prediction strategy for dynamic multi-objective optimization",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:3fE2CSJIrl8C",
-      "num_citations": 30,
+      "num_citations": 31,
       "year": 2024,
       "bib": {
         "title": "The IGD-based prediction strategy for dynamic multi-objective optimization",
@@ -254,6 +254,18 @@
       "venue": "2018 IEEE Symposium Series on Computational Intelligence (SSCI), 2148-2154, 2018"
     },
     "pub_21": {
+      "title": "A strategy cooperative algorithm based on state-awareness for large-scale multi-objective optimization",
+      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:4DMP91E08xMC",
+      "num_citations": 5,
+      "year": 2025,
+      "bib": {
+        "title": "A strategy cooperative algorithm based on state-awareness for large-scale multi-objective optimization",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:4DMP91E08xMC"
+      },
+      "authors": "H Liu, J Zheng, Y Hu, X Yu, J Ou, J Zou, S Yang",
+      "venue": "Swarm and Evolutionary Computation 99, 102165, 2025"
+    },
+    "pub_22": {
       "title": "A multi-population co-evolutionary algorithm based on dual-space division for dynamic multi-objective optimization problems",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:Wp0gIr-vW9MC",
       "num_citations": 5,
@@ -265,7 +277,7 @@
       "authors": "Y Hu, J Xia, J Ou, Y Song, J Li, J Zheng, G Wang, Y Zhang",
       "venue": "Information Sciences, 122712, 2025"
     },
-    "pub_22": {
+    "pub_23": {
       "title": "A learning algorithm based on similarity identification and knowledge transfer for dynamic multi-objective optimization",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:4TOpqqG69KYC",
       "num_citations": 5,
@@ -277,7 +289,7 @@
       "authors": "Y Hu, Z Zheng, J Ou, Y Song, J Zheng, J Zou, PN Suganthan, S Yang",
       "venue": "IEEE Transactions on Evolutionary Computation, 2025"
     },
-    "pub_23": {
+    "pub_24": {
       "title": "Dynamic multiobjective optimization via an improved r-dominance relation and a novel prediction approach",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:Zph67rFs4hoC",
       "num_citations": 5,
@@ -288,18 +300,6 @@
       },
       "authors": "Y Hu, J Ou, H Wang, J Zou, J Zheng, S Yang",
       "venue": "Expert Systems with Applications 263, 125765, 2025"
-    },
-    "pub_24": {
-      "title": "A strategy cooperative algorithm based on state-awareness for large-scale multi-objective optimization",
-      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:4DMP91E08xMC",
-      "num_citations": 4,
-      "year": 2025,
-      "bib": {
-        "title": "A strategy cooperative algorithm based on state-awareness for large-scale multi-objective optimization",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:4DMP91E08xMC"
-      },
-      "authors": "H Liu, J Zheng, Y Hu, X Yu, J Ou, J Zou, S Yang",
-      "venue": "Swarm and Evolutionary Computation 99, 102165, 2025"
     },
     "pub_25": {
       "title": "Dynamic multi-objective evolutionary algorithm based on dual-layer collaborative prediction under multiple perspective",
@@ -362,6 +362,30 @@
       "venue": "International Conference on Bio-Inspired Computing: Theories and …, 2022"
     },
     "pub_30": {
+      "title": "A dynamic multi-objective evolutionary algorithm based on manifold dimensionality reduction and cluster-guided poly-directional search strategy",
+      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:dhFuZR0502QC",
+      "num_citations": 1,
+      "year": 2026,
+      "bib": {
+        "title": "A dynamic multi-objective evolutionary algorithm based on manifold dimensionality reduction and cluster-guided poly-directional search strategy",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:dhFuZR0502QC"
+      },
+      "authors": "Y Hu, X Yang, W Fu, Y Zheng, J Ou, J Zou",
+      "venue": "Computers and Electrical Engineering 133, 111035, 2026"
+    },
+    "pub_31": {
+      "title": "Region-aware prediction strategy based on shared points and multiple scales for dynamic multi-objective optimization",
+      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:aqlVkmm33-oC",
+      "num_citations": 1,
+      "year": 2026,
+      "bib": {
+        "title": "Region-aware prediction strategy based on shared points and multiple scales for dynamic multi-objective optimization",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:aqlVkmm33-oC"
+      },
+      "authors": "Y Hu, S Wang, J Ou, Z Mei, J Zou, S Yang",
+      "venue": "Expert Systems with Applications 298, 129642, 2026"
+    },
+    "pub_32": {
       "title": "Adaptive prediction strategy based on inflection point partitioning and local environment type detection",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:mVmsd5A6BfQC",
       "num_citations": 1,
@@ -373,7 +397,19 @@
       "authors": "Y Hu, W Fu, J Ou, X Yang, J Zou",
       "venue": "Computers and Electrical Engineering 130, 110823, 2026"
     },
-    "pub_31": {
+    "pub_33": {
+      "title": "Topological prior-driven sub-region division and vector migration for spatio-temporal region prediction in dynamic multi-objective optimization",
+      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 0,
+      "year": 2027,
+      "bib": {
+        "title": "Topological prior-driven sub-region division and vector migration for spatio-temporal region prediction in dynamic multi-objective optimization",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:L8Ckcad2t8MC"
+      },
+      "authors": "Y Hu, Y Zheng, S Wang, J Ou, J Zheng, J Zou, S Yang",
+      "venue": "Expert Systems with Applications 333, 133881, 2027"
+    },
+    "pub_34": {
       "title": "A Physics-informed Memetic Framework for Multi-objective Satellite Range Scheduling",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:7PzlFSSx8tAC",
       "num_citations": 0,
@@ -385,19 +421,7 @@
       "authors": "Y Hu, W Sun, S Jiang, J Ou, J Zheng, J Zou, S Yang",
       "venue": "IEEE Transactions on Evolutionary Computation, 2026"
     },
-    "pub_32": {
-      "title": "A dynamic multi-objective evolutionary algorithm based on manifold dimensionality reduction and cluster-guided poly-directional search strategy",
-      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:dhFuZR0502QC",
-      "num_citations": 0,
-      "year": 2026,
-      "bib": {
-        "title": "A dynamic multi-objective evolutionary algorithm based on manifold dimensionality reduction and cluster-guided poly-directional search strategy",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:dhFuZR0502QC"
-      },
-      "authors": "Y Hu, X Yang, W Fu, Y Zheng, J Ou, J Zou",
-      "venue": "Computers and Electrical Engineering 133, 111035, 2026"
-    },
-    "pub_33": {
+    "pub_35": {
       "title": "A collaborative evolution strategy for dynamic multi-objective optimization based on charged individual prediction",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:M3ejUd6NZC8C",
       "num_citations": 0,
@@ -409,19 +433,7 @@
       "authors": "W He, J Zheng, X Yu, J Ou, Y Hu, J Zou, K Zhang",
       "venue": "Swarm and Evolutionary Computation 105, 102386, 2026"
     },
-    "pub_34": {
-      "title": "Region-aware prediction strategy based on shared points and multiple scales for dynamic multi-objective optimization",
-      "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:aqlVkmm33-oC",
-      "num_citations": 0,
-      "year": 2026,
-      "bib": {
-        "title": "Region-aware prediction strategy based on shared points and multiple scales for dynamic multi-objective optimization",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:aqlVkmm33-oC"
-      },
-      "authors": "Y Hu, S Wang, J Ou, Z Mei, J Zou, S Yang",
-      "venue": "Expert Systems with Applications 298, 129642, 2026"
-    },
-    "pub_35": {
+    "pub_36": {
       "title": "Dynamic multi-objective optimization algorithm via historical collaborative strategy and interval prediction strategy",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:9ZlFYXVOiuMC",
       "num_citations": 0,
@@ -433,7 +445,7 @@
       "authors": "J Ou, Y Li, Y Hu, J Peng, J Zheng, J Zou, S Yang",
       "venue": "Swarm and Evolutionary Computation 101, 102281, 2026"
     },
-    "pub_36": {
+    "pub_37": {
       "title": "Data-driven profits prediction and its application mechanism for intelligent satellites task planning",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:QIV2ME_5wuYC",
       "num_citations": 0,
@@ -445,7 +457,7 @@
       "authors": "Y He, H Zhou, Y Du, J Wu, J Ou, M Chen",
       "venue": "2025 11th International Conference on Big Data and Information Analytics …, 2025"
     },
-    "pub_37": {
+    "pub_38": {
       "title": "Centroidal Spatial-Temporal Topological Tensor-Based for Evolutionary Dynamic Multi-objective Optimization",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:qxL8FJ1GzNcC",
       "num_citations": 0,
@@ -457,7 +469,7 @@
       "authors": "Y Hu, Z Mei, J Ou, J Zheng, J Zou, S Jiang",
       "venue": "2025 40th Youth Academic Annual Conference of Chinese Association of …, 2025"
     },
-    "pub_38": {
+    "pub_39": {
       "title": "A Tabu-Based Bees Algorithm",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:kNdYIx-mwKoC",
       "num_citations": 0,
@@ -469,7 +481,7 @@
       "authors": "Y Guo, Y Song, J Li, J Ou, L Xing",
       "venue": "Intelligent Engineering Optimisation with the Bees Algorithm, 353, 2024"
     },
-    "pub_39": {
+    "pub_40": {
       "title": "Evolutionary Dynamic Multi-Objective Optimization Based on Multi-Scale Perturbation Prediction and Regional Search",
       "url_scholar": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=if0PW_cAAAAJ&amp;pagesize=100&amp;citation_for_view=if0PW_cAAAAJ:5nxA0vEk-isC",
       "num_citations": 0,
